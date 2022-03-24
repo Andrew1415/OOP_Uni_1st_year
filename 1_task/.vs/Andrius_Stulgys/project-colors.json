@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bcb741a2-828b-4f85-8723-a32c13cfa118": {
+      "ProjectGuid": "bcb741a2-828b-4f85-8723-a32c13cfa118",
+      "DisplayName": "ConsoleApplication1",
+      "ColorIndex": 0
+    },
+    "9f45cad5-3b0d-4984-85ca-45e3f2ecefae": {
+      "ProjectGuid": "9f45cad5-3b0d-4984-85ca-45e3f2ecefae",
+      "DisplayName": "1.6",
+      "ColorIndex": 1
+    },
+    "7f1d059d-ba9e-447d-b15b-fc6ca7ec6552": {
+      "ProjectGuid": "7f1d059d-ba9e-447d-b15b-fc6ca7ec6552",
+      "DisplayName": "1.7",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "6472ae2f-e4f4-4d82-874d-3a6ad87430c7": {
+      "ProjectGuid": "6472ae2f-e4f4-4d82-874d-3a6ad87430c7",
+      "DisplayName": "1.8",
+      "ColorIndex": 3
+    },
+    "2462aabf-076e-4c3f-8a5f-a25688ec7608": {
+      "ProjectGuid": "2462aabf-076e-4c3f-8a5f-a25688ec7608",
+      "DisplayName": "1.9",
+      "ColorIndex": 4
+    },
+    "33d4d3fe-1db4-4589-a387-d8287c67d195": {
+      "ProjectGuid": "33d4d3fe-1db4-4589-a387-d8287c67d195",
+      "DisplayName": "1.10",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
