@@ -1,0 +1,7 @@
+﻿  7.5.cpp
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\1_Kursas_2_Pusmetis\2022_Objektinis_programavimas\OOP_Uni_1st_year\7_task\7.1\7.5\7.5.cpp(60,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\1_Kursas_2_Pusmetis\2022_Objektinis_programavimas\OOP_Uni_1st_year\7_task\7.1\7.5\7.5.cpp(72,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\1_Kursas_2_Pusmetis\2022_Objektinis_programavimas\OOP_Uni_1st_year\7_task\7.1\7.5\7.5.cpp(84,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\1_Kursas_2_Pusmetis\2022_Objektinis_programavimas\OOP_Uni_1st_year\7_task\7.1\7.5\7.5.cpp(96,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\1_Kursas_2_Pusmetis\2022_Objektinis_programavimas\OOP_Uni_1st_year\7_task\7.1\7.5\7.5.cpp(108,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  7.5.vcxproj -> C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\1_Kursas_2_Pusmetis\2022_Objektinis_programavimas\OOP_Uni_1st_year\7_task\7.1\x64\Debug\7.5.exe
